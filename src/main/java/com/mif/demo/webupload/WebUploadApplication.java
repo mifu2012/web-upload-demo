@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author: mif
  * @date: 2018/2/9
  * @time: 11:06
- * @copyright: 拓道金服 Copyright (c) 2017
  */
 @SpringBootApplication
 public class WebUploadApplication {
